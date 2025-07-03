@@ -58,4 +58,4 @@ Snap-Scroller provides a responsive image slider with interactive lightbox viewi
 ## 🔗 Live Demo  
 🌐 [Click here to view the live site]( LINK )///
 
-   
+   Built with ❤️ by Riya Sharma
