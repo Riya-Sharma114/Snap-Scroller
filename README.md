@@ -52,7 +52,7 @@ Snap-Scroller provides a responsive image slider with interactive lightbox viewi
 ## 📸 Working Model Screenshots
 
 ### 💻 Beautiful Memories
-![Beautiful Memories](![image](https://github.com/user-attachments/assets/78dc67e4-5b2d-4a87-8aeb-89a5d1634f3d))
+![Beautiful Memories](![image](https://github.com/user-attachments/assets/78dc67e4-5b2d-4a87-8aeb-89a5d1634f3d)
 
 
 ## 🔗 Live Demo  
