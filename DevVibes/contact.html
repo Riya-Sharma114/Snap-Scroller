@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link rel="stylesheet" href="portfolio.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="left">My Portfolio</div>
+            <div class="menu-toggle" id="menu-toggle">&#9776;</div>
+            <div class="right" id="nav-links">
+                <a href="home.html">Home</a></li>
+                <a href="About.html">About</a>
+                <a href="skill.html">Skills</a>
+                <a href="project.html">Projects</a>
+            </div>
+        </nav>
+    </header>
+
+    <section id="contact">
+        <h1 class="h-primary center">Contact Me</h1>
+        <div id="contact-box">
+            <form id="contact-form" method="post">
+                <div class="form-group">
+                    <label for="name"><i class="fas fa-user"></i> Name:</label>
+                    <input type="text" name="name" id="name" placeholder="Enter your Name">
+                </div>
+                <div class="form-group">
+                    <label for="email"><i class="fas fa-envelope"></i> Email:</label>
+                    <input type="email" name="email" id="email" placeholder="Enter your Email">
+                </div>
+                <div class="form-group">
+                    <label for="name"><i class="fas fa-phone-alt"></i> Phone no.:</label>
+                    <input type="phone" name="phone" id="phone" placeholder="Enter your Phone no.">
+                </div>
+                <div class="form-group">
+                    <label for="name"><i class="fas fa-comment-dots"></i> Message:</label>
+                    <textarea name="message" id="message" cols="" rows=""></textarea>
+                </div>
+                <div class="form-group center">
+                    <button type="submit" class="submit-btn">Send Message</button>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="center">
+            <a href="https://www.linkedin.com" target="_blank">
+                <img src="linkedin.jpg" alt="LinkedIn">
+            </a>
+            <a href="https://github.com" target="_blank">
+                <img src="git.jpg" alt="GitHub">
+            </a>
+            <a href="https://www.instagram.com/riya.____.10/?hl=en" target="_blank">
+                <img src="insta.jpg" alt="Instagram">
+            </a>
+            <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+                <img src="mail.jpg" alt="Gmail">
+            </a>
+        </div>
+    </footer>
+
+    <script src="portfolio.js"></script>
+
+</body>
+
+</html>
